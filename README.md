@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thusithaherath" alt="thusithaherath" /></a> </p>
 
-- 🔭 I’m currently working on **Udside**
+- 🔭 I’m currently working on **Fiverr** 
 
 - 🌱 I’m currently learning **Spring boot,Node Js React & Typescript**
 
